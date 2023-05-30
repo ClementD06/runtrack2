@@ -1,0 +1,16 @@
+/* style1.css */
+body {
+    background-color: #c613c656;
+}
+
+form {
+    background-color: #a58686;
+}
+
+h1 {
+    color: #ebe8e8;
+}
+
+input[type="submit"] {
+    background-color: #090909a9;
+}
